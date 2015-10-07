@@ -32,7 +32,7 @@ function geo_ok(position) {
 	console.log(position);
 }
 
-function geo_error() {
+function geo_eror() {
 	console.log("lo sentios su posicion no ha sido encontrada");
 }
 
